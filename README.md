@@ -9,7 +9,7 @@ git clone https://github.com/EsmaelAbd/Library-Management-System
 ```
 
 this code fetches all the data from the remote repository, which includes all files, branches, tags, and commits.
-after that you need to start enter the project file by writing this code:
+after that you need to enter the project file by writing this code:
 
 ```git
 cd Task9
